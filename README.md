@@ -6,4 +6,4 @@ it causes inefficient charging and heating of batteries. Thus, we developed a sw
 One is used for the traction system of the car and the other battery is charged from the secondary source (solar panels), 
 Once the battery for traction system reaches a battery percentage of less than 20% the system automatically switches to the other battery for traction motor 
 and the drained battery starts to charge from the secondary source this happens on board while vehicle running on road. We designed the circuit with a sensor 
-which constantly monitors the battery voltage along and the controller gets the battery percentage data and performs accordingly
+which constantly monitors the battery voltage along and the controller gets the battery percentage data and performs accordingly.
